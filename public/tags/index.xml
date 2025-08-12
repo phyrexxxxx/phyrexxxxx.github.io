@@ -2,12 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on phyrexxxxx</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:34069/tags/</link>
     <description>Recent content in Tags on phyrexxxxx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 phyrexxxxx</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Aug 2025 00:51:07 +0800</lastBuildDate><atom:link href="http://localhost:34069/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Firmware</title>
+      <link>http://localhost:34069/tags/firmware/</link>
+      <pubDate>Tue, 12 Aug 2025 00:51:07 +0800</pubDate>
+      
+      <guid>http://localhost:34069/tags/firmware/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OS</title>
+      <link>http://localhost:34069/tags/os/</link>
+      <pubDate>Tue, 12 Aug 2025 00:51:07 +0800</pubDate>
+      
+      <guid>http://localhost:34069/tags/os/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>http://localhost:34069/tags/shell/</link>
+      <pubDate>Tue, 12 Aug 2025 00:51:07 +0800</pubDate>
+      
+      <guid>http://localhost:34069/tags/shell/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
